@@ -1,0 +1,56 @@
+
+.box1 {
+    max-width: 800px;
+    margin: 20px auto;  
+    padding: 20px;
+    border-radius: 8px;
+    background-color: rgb(150, 150, 238);
+  }
+  
+ 
+  .box1 h1 {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 30px;
+  }
+  
+  button{
+    margin: 10px;
+    padding: 6px 14px;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+    background-color: #fff;
+    
+  }
+  button:active{
+    transform: scale(0.98);  
+    background-color: #f0f0f0; 
+  }
+  
+  .post {
+    margin-bottom: 20px;  
+    padding: 15px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  .post h2 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+
+  .post p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+  }
+  
